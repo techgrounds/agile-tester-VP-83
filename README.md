@@ -1,7 +1,10 @@
 # Template Agile Tester
 
+<<<<<<< HEAD
 .
 
+=======
+>>>>>>> b3325d08f84c7e958bed7256d27e0a928f078831
 Deze repository zal al je werk gedurende de opleiding bevatten. De inhoud is aan het begin genoeg voor de eerste maand - later ga je hier meer aan toevoegen. Zo wordt het een verslag van jouw leerpad.
 
 De theorie-opdrachten mag je samen of apart in een .md bestand opslaan. Voor de praktijkopdrachten dien je bij elke opdracht een aparte file te gebruiken!
