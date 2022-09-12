@@ -43,7 +43,8 @@ En wat is het voordeel ervan als je dit doet?
     fouten zult maken wanneer een wijziging dezastreuze gevolgen zou hebben.
 
     Bij static behoort een methode tot de hele class in plaats van een specifiek object.
-    Wat dit inhoudt weet ik niet precies, dus ook niet een voordeel ervan.
+    Je hoeft hiervoor geen aparte object aan te maken. Je kunt de static op ieder moment aanroepen.
+    Voordeel is dat je niet steeds dus iets hoeft aan te maken.
 
 
 Opdracht 3 - Wanneer gebruik je .equals() en wanneer gebruik je ==?
