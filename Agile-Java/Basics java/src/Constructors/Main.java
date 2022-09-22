@@ -1,10 +1,10 @@
-package Constructers;
+package Constructors;
 
 public class Main {
     public static void main(String[] args) {
 
         Car Mycar = new Car();
-        System.out.println (Mycar);
+        System.out.println (Mycar.name);
 
     }
 }

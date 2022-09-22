@@ -1,8 +1,13 @@
-package Constructers;
+package Constructors;
 public class Car {
 
-    String color;
     String name;
+    String color;
+
+    public Car() {
+        name = "Peugeot";
+    }
+}
 
  /*   public Car (String name);{
         this.name = name;
@@ -11,30 +16,9 @@ public class Car {
         this.color = color;
     }
 */
-}
+
 
 /*
-public class Car {
-    public String color;
-
-}
-
-Voorbeeld van Bonieta:
-public class Car {
-    final String color;
-public Car (String color);
-
-    {
-        this.color = color;
-
-        public static void myMethod (String () args) {
-
-
-        System.out.println(Color);
-    }
-
-
-    }
 
     Voorbeeld van Nathan CAR:
     public class Car {
