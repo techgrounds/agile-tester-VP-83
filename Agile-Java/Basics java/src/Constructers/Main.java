@@ -1,7 +1,14 @@
+package Constructers;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("dit is de main van car");
+
+        Car Mycar = new Car();
+        System.out.println (Mycar);
+
     }
+}
+
 /* Voorbeeld Nathan MAIN:
     public class Main {
     public static void main(String[] args) {
@@ -32,4 +39,3 @@ public class Main {
 }
 
  */
-}

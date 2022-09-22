@@ -1,9 +1,18 @@
+package Constructers;
 public class Car {
-    public static void main(String[] args) {
-        System.out.println("dit is de main object van car");
 
+    String color;
+    String name;
+
+ /*   public Car (String name);{
+        this.name = name;
     }
+    public Car (String color);{
+        this.color = color;
+    }
+*/
 }
+
 /*
 public class Car {
     public String color;
@@ -124,4 +133,4 @@ public String toString() {
        // c1.printColor();                    // OPDR 3 method call, output = forest green
 
 
- */
+*/
